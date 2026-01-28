@@ -9,4 +9,5 @@ This dataset includes 14 attributes (13 features + target), combining both conti
 - Instances: 303 patients
 - Features: 13 clinical and demographic attributes
 - Target: Binary indicator of heart disease presence
+
 No missing values reported in the standard CSV version used for ML tasks, though some attributes like ca and thal may require careful handling if missing entries appear in other versions.
